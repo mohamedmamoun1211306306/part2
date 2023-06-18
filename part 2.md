@@ -52,7 +52,7 @@ No | Feature                                                                    
 
 ## D. Link to Part 2 GitHub Repo
 
-https://link_to_your_GitHub_repo
+[https://link_to_your_GitHub_repo](https://github.com/mohamedmamoun1211306306/part2/blob/main/part%202.md)https://github.com/mohamedmamoun1211306306/part2/blob/main/part%202.md
 
 https://youtu.be/VXTqQGJ4pQI
 
