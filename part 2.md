@@ -5,12 +5,12 @@
 No | ID         | Name                 | Task descriptions | Contribution %
 -- | ---------- | --------------------- | ----------------- | --------------
 1  | 1211300384 | Aowlad,MD             |     Part 1,2,5    | 25%
-                | Liad Bin              |           |
+  |            | Liad Bin              |           |
 2  | 1201303049 |Jahed,Fahad Bin        |     Part 3,4,5    | 25%
 3  | 1211306306 | Momammed Mamoun       |     Part 4,5,7    | 25%
-                | Mohammed Akwadelkream |                   |  
+    |             | Mohammed Akwadelkream |                   |  
 4  | 1221303182 | Al-Hawbani,Husam Abdo |     Part 5,7,8    | 25%
-                | Ahmed                 |                   |
+    |            | Ahmed                 |                   |
 
 
 
